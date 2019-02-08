@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemoHelloWorld</string>
+    <string name="txt_textView_title">Hallo Welt</string>
+    <string name="text_button_counter">Erhöhen</string>
+    <string name="txt_button_decrease">Reduzieren</string>
+</resources>
